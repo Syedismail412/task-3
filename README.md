@@ -67,3 +67,8 @@ Saved SQL queries acting as virtual tables for simplified access.
 Handling NULLs
 Use IS NULL, COALESCE(), or filtering as needed (not applicable here).
 
+
+
+
+
+
